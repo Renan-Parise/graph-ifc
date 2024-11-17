@@ -67,4 +67,5 @@ curl --location '127.0.0.1:8181/findpaths' \
 ### Importante!
 
 - O código ignora letras maiúsculas e minúsculas, então `ginásio` e `Ginásio` são considerados iguais.
+- Caso você insira um local que não exista no grafo, o servidor retornará um erro 500 - Internal Server Error com a mensagem `source node not found`.
 - Para o desenvolvimento deste código, foi aplicado os algoritmos de Dijkstra e DFS.

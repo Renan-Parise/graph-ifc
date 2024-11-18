@@ -1,6 +1,8 @@
 # Graph IFC
 
-Projeto para encontrar a distânci entre caminhos em um grafo representando locais e distâncias no IFC Videira. Este projeto utiliza Go e Gin para construir uma API que oferece funcionalidades de encontrar o caminho mais curto e listar todos os caminhos possíveis entre dois pontos dados.
+Projeto para encontrar a distância entre caminhos em um grafo representando locais e distâncias no IFC Videira. Este projeto utiliza Go e Gin para construir uma API que oferece funcionalidades de encontrar o caminho mais curto e listar todos os caminhos possíveis entre dois pontos dados.
+
+Desenvolvido por Renan, Kelvin e Luan
 
 ---
 
